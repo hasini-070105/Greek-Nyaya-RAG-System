@@ -1,0 +1,14 @@
+Corpus for Greek-Nyaya-RAG-System/
+  ├──corpus/
+  │   ├──greek/
+  │   │    ├──The-prior-Analytics-Aristotle.pdf
+  │   │    ├──Organon-Aristotle.pdf
+  │   │    └──Francis-Bacon-stanford_Encyclopedia.pdf
+  │   ├──nyaya/
+  │   │    ├──Tarka Sangraha.pdf
+  │   │    ├──Nyaya-Sutras-Of-Gutama-vol-1.pdf
+  │   │    └──research paper on nyaya sastra.pdf
+  │   └──Cp/
+  │        ├──Comparative paper 1.pdf
+  │        ├──Comparative paper 2.pdf
+  │        └──Comparative paper 3.pdf
