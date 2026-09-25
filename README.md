@@ -25,6 +25,7 @@ A domain-specific, bidirectional Retrieval-Augmented Generation (RAG) system con
 │   ├── 01_extract_clean.py       # PDF text extraction & normalization
 │   ├── 02_chunk_metadata.py      # Paragraph chunking & metadata JSON creation
 │   ├── 03_embeddings.py          # Embedding generation & Qdrant vector indexing
+│   ├── 04_
 │   ├── retriever.py              # Vector search & top-k chunk retrieval module
 │   └── generator.py              # Prompt formatting & Qwen2.5 LLM generation
 ├── corpus/                         # Local corpus directory for reference PDFs
