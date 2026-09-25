@@ -4,7 +4,7 @@ A comparative Semantic Retrieval System for Greek Logic and Nyaya/Tarka Sastra u
 
 A domain-specific, bidirectional Retrieval-Augmented Generation (RAG) system connecting classical Greek Logic and Indian Nyaya/Tarka Sastra using dense vector search and local LLM generation.
 
-**Developer:** Taticherla Hasini (IIITDM Kurnool)  
+**Developer:** Taticherla Hasini
 
 ---
 
@@ -151,7 +151,7 @@ SOURCES USED:
 
 ## Contributors
 
-* **Taticherla Hasini** (Developer) - IIITDM Kurnool
+* **Taticherla Hasini** 
 
 ---
 
